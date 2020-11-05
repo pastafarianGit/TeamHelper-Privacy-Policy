@@ -9,7 +9,7 @@
 <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in TravianTeamBot. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the <a href="https://www.privacypolicygenerator.info">Privacy Policy Generator</a> and the <a href="https://www.privacypolicies.com/privacy-policy-generator/">Free Privacy Policy Generator</a>.</p>
 
 <h2>Information we collect</h2>
-Only your google account/extension saves any of collected data. http://www.travianteambot.com/ NEVER saves any of collected data.
+Only your google account/extension saves any of collected data. TravianteamHelper NEVER saves any of collected data.
 
 Authentication Information that extension collects is used to make better user experiance. Authentication Information NEVER leaves your google account and is never sent or viewed by http://www.travianteambot.com/.
 
